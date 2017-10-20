@@ -4,7 +4,7 @@
 ![GitHub License](https://img.shields.io/github/license/osc/bc_osc_paraview_simple.svg)
 
 A Batch Connect app designed for OSC OnDemand that launches Paraview within an
-**Owens batch job using software rendering**.
+**Owens batch job**.
 
 ## Prerequisites
 
