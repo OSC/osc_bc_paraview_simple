@@ -1,0 +1,8 @@
+---
+name: Abaqus/CAE
+category: Interactive Apps
+subcategory: GUIs
+role: batch_connect
+description: |
+  This app will launch the GUI app on one or more Oakley nodes. You will
+  be able to interact with the GUI through a VNC session.
