@@ -1,9 +1,9 @@
-# Batch Connect - OSC Abaqus/CAE
+# Batch Connect - OSC Paraview
 
-![GitHub Release](https://img.shields.io/github/release/osc/bc_osc_abaqus.svg)
-![GitHub License](https://img.shields.io/github/license/osc/bc_osc_abaqus.svg)
+![GitHub Release](https://img.shields.io/github/release/osc/bc_osc_paraview_simple.svg)
+![GitHub License](https://img.shields.io/github/license/osc/bc_osc_paraview_simple.svg)
 
-A Batch Connect app designed for OSC OnDemand that launches Abaqus within an
+A Batch Connect app designed for OSC OnDemand that launches Paraview within an
 **Owens batch job using software rendering**.
 
 ## Prerequisites
@@ -11,7 +11,7 @@ A Batch Connect app designed for OSC OnDemand that launches Abaqus within an
 This app requires the following software be installed on the nodes that the
 batch job is intended to run on:
 
-- [Abaqus/CAE](https://www.3ds.com/products-services/simulia/products/abaqus/abaquscae/) 6.14+
+- **Paraview**
 - [Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) 6.0.1+
 - [Fluxbox](http://fluxbox.org/) 1.1.1+
 
@@ -22,8 +22,7 @@ For VNC server support:
 
 For hardware rendering support:
 
-- This simple version does not demonstrate hardware rendering support.
-  See https://github.com/OSC/bc_osc_abaqus for an example of this.
+- **TODO**
 
 ## Install
 

@@ -52,5 +52,6 @@ EOT
 # Restore the module environment to avoid conflicts
 module restore
 
-module load abaqus/6.14
-abaqus cae -mesa
+module load paraview
+module load virtualgl
+vglrun paraview
