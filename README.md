@@ -1,9 +1,9 @@
-# Batch Connect - OSC Paraview
+# Batch Connect - OSC ParaView
 
 ![GitHub Release](https://img.shields.io/github/release/osc/bc_osc_paraview_simple.svg)
 ![GitHub License](https://img.shields.io/github/license/osc/bc_osc_paraview_simple.svg)
 
-A Batch Connect app designed for OSC OnDemand that launches Paraview within an
+A Batch Connect app designed for OSC OnDemand that launches ParaView within an
 **Owens batch job**.
 
 ## Prerequisites
@@ -11,7 +11,7 @@ A Batch Connect app designed for OSC OnDemand that launches Paraview within an
 This app requires the following software be installed on the nodes that the
 batch job is intended to run on:
 
-- **Paraview**
+- **ParaView**
 - [Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) 6.0.1+
 - [Fluxbox](http://fluxbox.org/) 1.1.1+
 
